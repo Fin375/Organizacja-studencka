@@ -1,2 +1,2 @@
 # Organizacja-studencka
-Projekt bazy danych modelu organizacji studenckiej wraz z przykładowymi zapytaniami.
+Projekt bazy danych (SQL) modelu organizacji studenckiej wraz z przykładowymi zapytaniami.
